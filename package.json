@@ -1,0 +1,36 @@
+{
+  "name": "jkansii",
+  "version": "1.0.0",
+  "description": "Easy to use ANSI terminal codes with tons of features",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Battledash-2/JKAnsii.git"
+  },
+  "keywords": [
+    "ansii",
+    "a",
+    "console",
+    "terminal",
+    "cli",
+    "io",
+    "input",
+    "output",
+    "cio",
+    "color",
+    "terminal",
+    "size",
+    "cursor",
+    "position",
+    "colors"
+  ],
+  "author": "Battledash-2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Battledash-2/JKAnsii/issues"
+  },
+  "homepage": "https://github.com/Battledash-2/JKAnsii#readme"
+}
