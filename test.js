@@ -27,4 +27,9 @@ lib.fillWith([
 		'random text',
 		'btw'
 	]
-])
+]);
+
+lib.setwidth(0);
+lib.write(lib.getLines('hellohdsiadjhos\n\naidhsiaodhsoaidhoisadhellohdsiadjhos\n\naidhsiaodhsoaidhoisadhellohdsiadjhos\n\naidhsiaodhsoaidhoisadhellohdsiadjhos\n\naidhsiaodhsoaidhoihellohdsiadjhos\n\naidhsiaodhsoaidhoisadhellohdsiadjhos\n\naidhsiaodhsoaidhoisadsad'));
+
+// output should be 12 (13 newlines)
