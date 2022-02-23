@@ -1,6 +1,6 @@
 {
   "name": "jkansii",
-  "version": "1.0.0p1",
+  "version": "1.0.1",
   "description": "Easy to use ANSI terminal codes with tons of features",
   "main": "index.js",
   "scripts": {
