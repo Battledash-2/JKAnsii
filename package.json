@@ -1,8 +1,9 @@
 {
   "name": "jkansii",
-  "version": "1.0.2",
+  "version": "1.0.2-declaration",
   "description": "Easy to use ANSI terminal codes with tons of features",
   "main": "index.js",
+  "types": "./index.d.ts",
   "scripts": {
     "test": "node ./test.js"
   },
