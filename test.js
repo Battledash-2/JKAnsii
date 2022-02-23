@@ -11,4 +11,20 @@ lib.setwidth(5);
 
 lib.write(Math.floor(Math.random() * 99));
 
+lib.line();
+
 // output should be 000<INT>
+
+lib.setwidth(lib.size().width-50);
+lib.fillWith([
+	[
+		'hello',
+		'poo',
+		'pee',
+		'ejeodok',
+		'dude',
+		'idk',
+		'random text',
+		'btw'
+	]
+])
